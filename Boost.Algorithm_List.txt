@@ -1,0 +1,3 @@
+1) Finish 'is_palindrome'.
+2) Finish 'Aho-Corasick' algo.
+3) Approximate matching - current project.

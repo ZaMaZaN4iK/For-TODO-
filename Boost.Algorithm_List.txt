@@ -1,3 +1,2 @@
-1) Finish 'is_palindrome'.
-2) Finish 'Aho-Corasick' algo.
-3) Approximate matching - current project.
+1) Finish 'Aho-Corasick' algo.
+2) Approximate matching - current project. Levenshtein distance, Damerau-Levenshtein distance, Leveshtein automaton.
